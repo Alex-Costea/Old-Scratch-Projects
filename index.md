@@ -4,7 +4,7 @@ To run, zip the folders to a new file, and change the extension to `.sb3`. Then 
 
 Or open them as HTML5 files (with the original description, if relevant, below):
 
-## [Reversiball](reversiball.html)
+## [Reversiball](online/reversiball.html)
 
 Reversiball was a normal ball in the land of balls, until it discovered that it could reverse the force of gravity, thus falling upwards. For that reason it was banned from the Cyan Zone where was its family. Its family was very upset because of that.
 
