@@ -13,20 +13,6 @@ After five years, the President had changed and with him also the ban on Reversi
 (**editor's note: SEIZURE WARNING**)
 ## [Super Blender Movie 2](online/super-blender-movie-2.html)
 My best project, now with pause, back,play and stop!
-## [Super Football](online/super-football.html)
-
-Training youself for the World Cup. You are the blue one.
-
-
-You must protect the ball. But the ball will become faster and faster.
-
-The game ends when the points are < 20.
-
-Say the highscore in a comment!
-
-This is not an easy game! Wait until you have 100 points and see youself!
-
-NOTE THAT THE YELLOW ONE IS INVINCIBLE!!!
 ## [Number Rec-order](online/number-rec-order.html)
 
 press record to start. Go somewhere on the screen and press a number. Make this again, and again, until you press stop. Then press play and see your creation.
