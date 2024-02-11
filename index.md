@@ -7,4 +7,4 @@ To run, zip the folders to a new file, and change the extension to `.sb3`. Then 
 Or open them as HTML5 files:
 
 * [Reversiball](reversiball.html)
-* [Andrew's Adventure](Andrews-Adventure.html)
+* [Andrew's Adventure](Andrews-Adventure.html) (NOTE: SEIZURE WARNING)
